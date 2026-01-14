@@ -7,7 +7,6 @@ A lightweight Python system monitor that collects and displays basic system metr
 - Show CPU usage per core and overall
 - Show memory and swap usage
 - Show disk usage and I/O
-- Show network usage (optional)
 - Cross-platform where possible (Linux, macOS, Windows)
 
 ## Requirements
